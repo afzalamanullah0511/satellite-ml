@@ -1,4 +1,4 @@
 # Examples
 
-### Sample 1–3
+### Sample
 ![10 examples of our model ](examples.jpeg)
